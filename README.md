@@ -6,9 +6,15 @@ A centralized archive of my e-certificates, completed technical courses, worksho
 
 | Credential / Course | Issuing Organization | Date Earned | File / Verification |
 | :--- | :--- | :--- | :--- |
-| **[Certificate Name 1]** | Issuing Org (e.g., Coursera, AWS, Google) | Month Year | [View Certificate](./filename-1.pdf) |
-| **[Certificate Name 2]** | Issuing Org | Month Year | [View Certificate](./filename-2.pdf) \| [Verify](https://verification-url.com) |
-| **[Certificate Name 3]** | Issuing Org | Month Year | [View Certificate](./filename-3.png) |
+| **AI Fluency — AI Capabilities and Limitations** | Anthropic | [Month Year] | [View Certificate](./AI_Fluency%20-%20AI%20Capabilities%20and%20%20Limitations%20by%20Anthropic%20-%20Geoffrey%20Embuscado.pdf) |
+| **Angular 14: The Big Picture** | [Issuing Org] | [Month Year] | [View Certificate](./Angular%2014%20The%20Big%20Picture%20-%20Geoffrey%20Embuscado.pdf) |
+| **Angular 7 Crash Course** | [Issuing Org] | [Month Year] | [View Certificate](./Angular%207%20Crash%20Course%20-%20Geoffre%20Embuscado.pdf) |
+| **Creating Layouts with Flutter 2** | [Issuing Org] | [Month Year] | [View Certificate](./Creating%20Layouts%20with%20Flutter%202%20-%20Geoffrey%20Embuscado.pdf) |
+| **Creating Localized Apps with Flutter 2** | [Issuing Org] | [Month Year] | [View Certificate](./Creating%20Localized%20Apps%20with%20Flutter%202%20-%20Geoffrey%20Embuscado.pdf) |
+| **Developing Mobile-specific Features with Flutter 2** | [Issuing Org] | [Month Year] | [View Certificate](./Developing%20Mobile-specific%20Features%20with%20Flutter%202%20-%20Geoffrey%20Embuscado.pdf) |
+| **Flutter 2: The Bigger Picture** | [Issuing Org] | [Month Year] | [View Certificate](./Flutter%202%20The%20Bigger%20Picture%20Certificate%20-%20Geoffrey%20Embuscado.pdf) |
+| **Node.js 12: The Big Picture** | [Issuing Org] | [Month Year] | [View Certificate](./Nodejs%2012%20The%20Big%20Picture%20-%20Geoffrey%20Embuscado.pdf) |
+| **Persisting Data Locally with Flutter 2** | [Issuing Org] | [Month Year] | [View Certificate](./Persisting%20Data%20Locally%20with%20Flutter%202%20-%20Geoffrey%20Embuscado.pdf) |
 
 ---
 
